@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+onnxruntime
+numpy
+prometheus-client
+pydantic>=2
